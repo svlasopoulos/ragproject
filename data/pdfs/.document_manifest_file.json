@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "scanned_at": "2026-03-19T22:23:25Z",
+  "files": {
+    "amazon 10-k 2023.pdf": {
+      "mtime": 1773094292533280100,
+      "size": 800598,
+      "text_hash": "c201b95787c4030073284832a6fd075312868ff7c63f35d74ac03a86c5b449bc"
+    },
+    "amazon 10-k 2024.pdf": {
+      "mtime": 1773094309528141300,
+      "size": 754569,
+      "text_hash": "b4c4a37aea776856134f27a4e874e046deb5485f263800b238fe145f1a51440a"
+    },
+    "amazon 10-k 2025.pdf": {
+      "mtime": 1773530351866216400,
+      "size": 750688,
+      "text_hash": "b09556fc0d560dc74bf9c5b5061219f78fad744d1cbeb01243fd149faf859c81"
+    },
+    "amazon 10-q q1 2024.pdf": {
+      "mtime": 1773094324080157600,
+      "size": 489645,
+      "text_hash": "980c1737685892137880409b8fc57a0a7837df224edc6a8ea899d671afeab1a7"
+    },
+    "amazon 10-q q1 2025.pdf": {
+      "mtime": 1773094338528521800,
+      "size": 486296,
+      "text_hash": "7b46501644a01758a14cb10f62f858e3ece2d29056597c6ff73a510a407926eb"
+    },
+    "amazon 10-q q2 2024.pdf": {
+      "mtime": 1773094355951108500,
+      "size": 509320,
+      "text_hash": "28002fe3e96d6aa43b8a930aa2154dd7c92e9cab91c02c9d6b62a48568dc3a76"
+    },
+    "amazon 10-q q2 2025.pdf": {
+      "mtime": 1773094371506630200,
+      "size": 508966,
+      "text_hash": "775ef10003299f2a82c8c03ded3a76c9313c0016401d1c591c350e8f1e40a18c"
+    },
+    "amazon 10-q q3 2024.pdf": {
+      "mtime": 1773094393028683700,
+      "size": 1167021,
+      "text_hash": "2607e99a72dfae8e900cd0de1fdd26305f545094c5be20e967fa96ec924144e1"
+    },
+    "amazon 10-q q3 2025.pdf": {
+      "mtime": 1773530481264549300,
+      "size": 1168281,
+      "text_hash": "4a3ae821c4e121531f1d596ef05fcc36ed105bc75ca091bf3d58275ac3442e7f"
+    }
+  }
+}
